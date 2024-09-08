@@ -1,4 +1,4 @@
-# README for Monthly Eye Clinic Report Script
+# Monthly Eye Clinic Report Script
 
 ## Overview
 This Python script generates a **Monthly Eye Clinic Report** using data from a Google Sheet. The report includes a summary of patient data, weekly breakdowns, and comments. The output is formatted in LaTeX, generating a report that can be compiled into a PDF.
